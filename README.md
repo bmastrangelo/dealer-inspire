@@ -17,4 +17,5 @@
 - Run ``npm i``
 - Run ``npm run dev``
 - Run ``php artisan migrate``
+- Run ``php artisan key:generate``
 - Run ``php artisan serve``
