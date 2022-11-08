@@ -25,3 +25,4 @@ php artisan migrate
 php artisan key:generate
 php artisan serve
 ```
+- Once application is running in terminal go to http://127.0.0.1:8000
